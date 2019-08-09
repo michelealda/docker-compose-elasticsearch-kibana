@@ -16,9 +16,10 @@ Based on your local docker setup, you might need to increase the [vm.max_map_cou
 
 Working on Windows I set the docker engine available memory to 4Gb and didn't have any issue running this stack consistently.
 
-## Requirements
-- [x] Docker 18.05
-- [x] Docker-compose 1.21
+## Last run on
+- [x] docker version 19.03.1, build 74b1e89
+- [x] docker-compose version 1.24.1, build 4667896b
+
 
 ### Start Stack in Daemon Mode
 ```
